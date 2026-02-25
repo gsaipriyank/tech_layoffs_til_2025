@@ -1,5 +1,5 @@
 # ==========================================
-# Monthly Layoff Challenge - Final Version
+# Monthly Dataset Challenge - Final Version
 # Dataset: tech_layoffs_til_2025.csv
 # ==========================================
 
@@ -93,3 +93,4 @@ industry_totals.to_excel(r"D:\My Files\Coding\Python\Dataset\Output\industry_sum
 
 print("\nAll charts and summary files generated successfully!")
 print("Check your folder for PNG and Excel files.")
+
