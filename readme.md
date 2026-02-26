@@ -1,4 +1,4 @@
-This project analyzes global tech layoffs in python using the dataset tech_layoffs_til_2025.csv.
+This project analyzes global tech layoffs from the year 2020 to 2025 using the dataset tech_layoffs_til_2025.csv.
 
 
 Dataset Source: Kaggle
