@@ -2,11 +2,12 @@ This project analyzes global tech layoffs from the year 2020 to 2025 using the d
 
 
 Dataset Source: Kaggle
-Dataset Link: https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024 
+Dataset Link:  https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024 
  
 Github Repository Files Details:
 tech_layoffs_til_2025.csv - (This is the source input data)
 code.py - (This has the main python code)
+code.ipynb - (This has the python code in Jupyter notebook)
 readme.md -  (This has the description of the project)
 
 
